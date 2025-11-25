@@ -20,7 +20,7 @@ MotorMinds is an advanced Automotive Smart Insights Platform that leverages mach
 - Predict future vehicle sales using machine learning models
 - Multiple feature analysis including price, marketing spend, seasonal trends
 - Future sales forecasting with customizable time horizons
-- Interactive visualizations for trend analysis
+- Interactive visualizations for trend analysis 
 
 ## 🛠️ Technology Stack
 
@@ -29,7 +29,7 @@ MotorMinds is an advanced Automotive Smart Insights Platform that leverages mach
 - **Data Processing**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn
 - **Time Series Analysis**: Statsmodels
-- **Visualization**: Matplotlib, Seaborn
+- **Visualization**:Matplotlib, Seaborn
 
 ## 📦 Installation
 
@@ -97,7 +97,7 @@ Required columns:
 - `UsageHours`: Hours of component usage
 - `DaysSinceMaintenance`: Days since last maintenance
 - `ComponentHealth`: Health score of component
-- `Failure`: Binary target variable (0/1)
+- `Failure`: Binary target variable (0/1) 
 
 ### Inventory Data (`inventory.csv`)
 Required columns:
@@ -126,7 +126,7 @@ Required columns:
 ### Spare Parts Forecasting
 - **Time Series Decomposition**: Multiplicative model with customizable seasonality
 - **Exponential Smoothing**: Trend and seasonal components
-- **Testing Period**: Configurable test size (4-52 weeks)
+- **Testing Period**: Configurable test, size (4-52 weeks)
 
 ### Car Sales Prediction
 - **Feature Engineering**: One-hot encoding for categorical variables
